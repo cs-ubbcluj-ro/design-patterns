@@ -1,0 +1,4 @@
+Source code for this example: https://github.com/RefactoringGuru/design-patterns-java
+This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
+
+The git repository is part of the Refactoring.Guru project (https://refactoring.guru/design-patterns)
